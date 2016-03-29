@@ -1,6 +1,6 @@
 # Sync Stylish
 
-Easilty backup and restore Stylish addon styles into and from files.
+Easily backup and restore Stylish addon styles into and from files, on Mac and Linux
 
 ## Backup
 
